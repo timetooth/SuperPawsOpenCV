@@ -1,0 +1,5 @@
+train: /Users/study/Downloads/dog_data2/data/train/images
+val: /Users/study/Downloads/dog_data2/data/val/images
+
+nc: 2
+names: ['chihuahua', 'labrador']
